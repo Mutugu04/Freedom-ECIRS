@@ -54,6 +54,15 @@ export interface Contract {
   date: string;
 }
 
+export interface StaffMember {
+  id: string;
+  name: string;
+  phone: string;
+  role: 'super_admin' | 'station_manager' | 'sales_executive' | 'accountant' | 'viewer';
+  stations: string[];
+  status: 'active' | 'inactive';
+}
+
 export interface FileNode {
   name: string;
   type: 'file' | 'folder';
