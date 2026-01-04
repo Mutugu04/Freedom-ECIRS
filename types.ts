@@ -25,7 +25,8 @@ export enum AppView {
   SETTINGS = 'SETTINGS',
   ADMIN = 'ADMIN',
   VERIFICATION_PORTAL = 'VERIFICATION_PORTAL',
-  MOBILE_PWA = 'MOBILE_PWA'
+  MOBILE_PWA = 'MOBILE_PWA',
+  TUTORIAL = 'TUTORIAL'
 }
 
 export enum Language {

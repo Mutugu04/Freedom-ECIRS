@@ -4,7 +4,7 @@ import { Language } from './types';
 export const translations = {
   [Language.ENGLISH]: {
     app_name: 'Freedom Electronic Contract Invoice & Receipting System ECIRS',
-    tagline: 'Northern Nigeria Advertising Network',
+    tagline: '', // Removed as requested
     operations: 'Operations',
     field_ops: 'Field Ops',
     architect_portal: 'Architect Portal',
@@ -52,11 +52,14 @@ export const translations = {
     online_sync: 'Online Sync Active',
     offline_mode: 'Offline Mode Enabled',
     quick_actions: 'Quick Actions',
-    recent_activity: 'Recent Activity'
+    recent_activity: 'Recent Activity',
+    help_tutorial: 'Help & Tutorial',
+    generate_tutor: 'Generate AI Video Tutor',
+    tutorial_desc: 'Learn how to master the Freedom ECIRS platform with our AI-powered assistant.'
   },
   [Language.HAUSA]: {
     app_name: 'Freedom Electronic Contract Invoice & Receipting System ECIRS',
-    tagline: 'Hukumar Tallace-tallacen Arewacin Najeriya',
+    tagline: '', // Removed as requested
     operations: 'Ayyuka',
     field_ops: 'Aikin Cikin Gari',
     architect_portal: 'Sashen Masu Gini',
@@ -104,6 +107,9 @@ export const translations = {
     online_sync: 'Haɗin Intanet Yana Aiki',
     offline_mode: 'Yanayin Ba tare da Intanet ba',
     quick_actions: 'Matakai Cikin Sauri',
-    recent_activity: 'Ayyukan Kwanan Nan'
+    recent_activity: 'Ayyukan Kwanan Nan',
+    help_tutorial: 'Taimako da Horarwa',
+    generate_tutor: 'Samar da Malami na AI',
+    tutorial_desc: 'Koyi yadda ake amfani da tsarin Freedom ECIRS tare da taimakon malaminmu na AI.'
   }
 };
