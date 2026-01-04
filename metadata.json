@@ -1,0 +1,7 @@
+{
+  "name": "Freedom Electronic Contract Invoice & Receipting System ECIRS",
+  "description": "A professional database schema design and management tool for Freedom Radio Group's Electronic Billing and Receipting System (ECIRS), featuring full PostgreSQL schema generation, ERD visualization, and Gemini-powered design insights.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}

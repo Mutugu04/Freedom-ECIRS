@@ -1,0 +1,22 @@
+
+{
+  "name": "Freedom Electronic Contract Invoice & Receipting System ECIRS",
+  "short_name": "Freedom ECIRS",
+  "description": "Electronic Billing and Receipting System for Freedom Radio Group",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1B4F72",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3258/3258503.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3258/3258503.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
